@@ -1,1 +1,2 @@
 Nikhil is Learning DevOps with AWS
+And Nikhil is a Full MERN Stack Developer with AWS DevOps 
